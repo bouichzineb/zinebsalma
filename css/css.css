@@ -1566,7 +1566,7 @@ body {
     }
   }
   
-  @media (min-width: 1024px) {
+  @media (min-width: 600px) {
     #intro {
       background-attachment: fixed;
     }
@@ -1580,7 +1580,7 @@ body {
     }
   }
   
-  @media (max-width: 1199px) {
+  @media (max-width: 600px) {
     #header .container {
       max-width: 100%;
     }
